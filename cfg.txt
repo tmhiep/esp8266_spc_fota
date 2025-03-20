@@ -1,4 +1,5 @@
 {
-  domainName: "http://pilabs.atwebpages.com",
-  hostName: "pilabs.atwebpages.com"
+	domainName: "http://pilabs.atwebpages.com",
+	hostName: "pilabs.atwebpages.com",
+	hostPort: 80
 }
