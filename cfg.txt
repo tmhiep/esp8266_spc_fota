@@ -1,3 +1,4 @@
 {
-  
+  domainName: "http://pilabs.atwebpages.com",
+  hostName: "pilabs.atwebpages.com"
 }
